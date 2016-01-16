@@ -72,3 +72,13 @@ A curated list of awesome badges of updated information and statuses. Inspired b
 
     ![Code Climate](https://codeclimate.com/repos/537e40a4e30ba0207d00e72d/badges/4a6eeca0ad0348cc0dd2/gpa.svg)
     ![Code Climate](https://codeclimate.com/repos/537e40a4e30ba0207d00e72d/badges/4a6eeca0ad0348cc0dd2/coverage.svg)
+
+## MISC
+
+* docker - imageLayer
+* javadoc
+* maven
+* jitpack
+* circle-ci
+* methodcount http://www.methodscount.com
+* awesome
